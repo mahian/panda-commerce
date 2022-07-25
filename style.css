@@ -1,0 +1,7 @@
+:root{
+    --primary-color: #FF136F;
+    --secondary-color: #feeae9;
+}
+.hero-slider{
+    background-color: var(--secondary-color);
+}
