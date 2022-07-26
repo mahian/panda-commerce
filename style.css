@@ -11,12 +11,15 @@
 .slider3{
     background-color: rgb(226, 226, 255);
 }
-.hero-slider a{
+.hero-slider a, .btn-c{
     background-color: var(--primary-color);
     color: white;
 }
 .hero-slider .price{
     color: var(--primary-color);
+}
+.sider-indicators button{
+    background-color: var(--primary-color) !important;
 }
 .catagory-1{
     background: linear-gradient(to top, #FF9C35, #ffb25f);
@@ -26,4 +29,8 @@
 }
 .catagory-3{
     background: linear-gradient(to top, #1713ff, #4b48ff);
+}
+.subcription-box{
+    background-color: var(--secondary-color);
+    padding: 150px 10%;
 }
